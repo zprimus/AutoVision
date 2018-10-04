@@ -1,6 +1,4 @@
 # AutoVision
-Snap a picture of your vehicle and get information on it.
-
 In Node.js:
 
 npm install -g create-react-native-app
